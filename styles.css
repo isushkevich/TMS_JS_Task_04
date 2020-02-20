@@ -1,0 +1,31 @@
+table,
+th,
+td {
+    border: 1px solid #aaaaaa;
+}
+
+table {
+    font-family: "Segoe UI", sans-serif;
+    font-size: 150%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+th {
+    background-color: #65a7e0;
+    color: #fff;
+    font-weight: normal;
+}
+
+td {
+    white-space: pre;
+    vertical-align: top;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
