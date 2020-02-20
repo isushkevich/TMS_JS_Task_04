@@ -17,12 +17,12 @@ const people = [{
     id: 2,
     name: "Lisa",
     age: 19,
-    books: ["Don Quixote of La Mancha", "Hamlet"]
+    books: ["Don Quixote of La Mancha", "Romeo and Juliet"]
 }, {
     id: 3,
     name: "Michael",
     age: 22,
-    books: ["Frankenstein", "The Art of Computer Programming"]
+    books: ["Frankenstein", "The Art of Computer Programming", "The GULAG Archipelago"]
 }, {
     id: 4,
     name: "Greta",
@@ -37,7 +37,7 @@ const people = [{
     id: 6,
     name: "Dave",
     age: 23,
-    books: ["The Remains of The Day", "Hamlet"]
+    books: ["The Remains of The Day", "Hamlet", "A Brief History of Time"]
 }];
 
 
